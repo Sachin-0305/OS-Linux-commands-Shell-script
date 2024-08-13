@@ -1377,5 +1377,5 @@ Enter the number
  69
  Number is NOT palindrome
 
-# RESULT:
+##RESULT:
 The Commands are executed successfully
