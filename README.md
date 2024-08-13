@@ -284,9 +284,6 @@ sed -n -e '3p' file23
 1002 | tom |  5000 | Admin
 sed -n -e '$p' file23
 ## OUTPUT
-
-
-```
 sed  -e 's/Ram/Sita/' file23
 ## OUTPUT
 
